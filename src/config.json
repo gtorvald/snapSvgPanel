@@ -1,0 +1,115 @@
+{
+  "name": "Test SK",
+  "left": {
+    "countBlocks": 32,
+    "countBlocksInOnePul": 8,
+    "countCommutators": 22,
+    "commutators": [
+      [0, 2, [[0, "FDR IB"], [1, "GBE"]]],
+      [2, 2, [[2, "FDR IB"], [3, "FDR IB"]]],
+      [4, 1, [[4, "GBE"]]],
+      [6, 2, [[5, "FDR IB"], [6, "FDR IB"]]],
+      [10, 2, [[7, "FDR IB"], [8, "FDR IB"]]],
+      [12, 1, [[9, "GBE"]]],
+      [14, 2, [[10, "FDR IB"], [11, "FDR IB"]]],
+      [18, 2, [[12, "FDR IB"], [13, "FDR IB"]]],
+      [20, 1, [[14, "GBE"]]],
+      [22, 2, [[15, "FDR IB"], [16, "FDR IB"]]],
+      [26, 2, [[17, "FDR IB"], [18, "FDR IB"]]],
+      [28, 1, [[19, "GBE"]]],
+      [30, 2, [[20, "FDR IB"], [21, "FDR IB"]]]
+    ],
+    "commutators1": [
+      {
+        "blockBefore": 0,
+        "countCommutators": 2,
+        "elements": [
+          {
+            "id": 0,
+            "type": "FDR IB"
+          },
+          {
+            "id": 1,
+            "type": "GBE"
+          }
+        ]
+      }
+    ],
+    "linkTypes": ["FDR IB", "GBE"],
+    "links": {
+      "in": [
+        [2, "FDR IB", 2, ["block0", "com2"]],
+        [1, "FDR IB", 2, ["block1", "com2"]],
+        [1, "FDR IB", 2, ["block2", "com3"]],
+        [2, "FDR IB", 2, ["block3", "com3"]],
+        [4, "GBE" , 2, ["block3", "com4"]],
+        [5, "GBE", 2, ["block2", "com4"]],
+        [6, "GBE", 2, ["block1", "com4"]],
+        [7, "GBE", 2, ["block0", "com4"]],
+        [2, "FDR IB", 2, ["block4", "com5"]],
+        [1, "FDR IB", 2, ["block5", "com5"]],
+        [1, "FDR IB", 2, ["block6", "com6"]],
+        [2, "FDR IB", 2, ["block7", "com6"]],
+        [8, "GBE", 2, ["block4", "com4"]],
+        [9, "GBE", 2, ["block5", "com4"]],
+        [10, "GBE", 2, ["block6", "com4"]],
+        [11, "GBE", 2, ["block7", "com4"]]
+      ],
+      "out": [
+        [1, "FDR IB", 17, ["com0", "com2", "com3", "com5", "com6", "com7", "com8", "com10", "com11", "com12", "com13", "com15", "com16", "com17", "com18", "com20", "com21"]],
+        [2, "GBE", 2, ["com1", "com4"]],
+        [3, "GBE", 2, ["com1", "com9"]],
+        [4, "GBE", 2, ["com1", "com14"]],
+        [5, "GBE", 2, ["com1", "com19"]]
+      ]
+    }
+  },
+  "right": {
+    "countBlocks": 32,
+    "countBlocksInOnePul": 8,
+    "countCommutators": 22,
+    "commutators": [
+      [32, 2, [[22, "FDR IB"], [23, "GBE"]]],
+      [34, 2, [[24, "FDR IB"], [25, "FDR IB"]]],
+      [36, 1, [[26, "GBE"]]],
+      [38, 2, [[27, "FDR IB"], [28, "FDR IB"]]],
+      [42, 2, [[29, "FDR IB"], [30, "FDR IB"]]],
+      [44, 1, [[31, "GBE"]]],
+      [46, 2, [[32, "FDR IB"], [33, "FDR IB"]]],
+      [50, 2, [[34, "FDR IB"], [35, "FDR IB"]]],
+      [52, 1, [[36, "GBE"]]],
+      [54, 2, [[37, "FDR IB"], [38, "FDR IB"]]],
+      [58, 2, [[39, "FDR IB"], [40, "FDR IB"]]],
+      [60, 1, [[41, "GBE"]]],
+      [62, 2, [[42, "FDR IB"], [43, "FDR IB"]]]
+    ],
+    "linkTypes": ["FDR IB", "GBE"],
+    "links": {
+      "in": [
+        [2, "FDR IB", 2, ["block32", "com24"]],
+        [1, "FDR IB", 2, ["block33", "com24"]],
+        [1, "FDR IB", 2, ["block34", "com25"]],
+        [2, "FDR IB", 2, ["block35", "com25"]],
+        [4, "GBE" , 2, ["block35", "com26"]],
+        [5, "GBE", 2, ["block34", "com26"]],
+        [6, "GBE", 2, ["block33", "com26"]],
+        [7, "GBE", 2, ["block32", "com26"]],
+        [2, "FDR IB", 2, ["block36", "com27"]],
+        [1, "FDR IB", 2, ["block37", "com27"]],
+        [1, "FDR IB", 2, ["block38", "com28"]],
+        [2, "FDR IB", 2, ["block39", "com28"]],
+        [8, "GBE", 2, ["block36", "com26"]],
+        [9, "GBE", 2, ["block37", "com26"]],
+        [10, "GBE", 2, ["block38", "com26"]],
+        [11, "GBE", 2, ["block39", "com26"]]
+      ],
+      "out": [
+        [1, "FDR IB", 17, ["com22", "com24", "com25", "com27", "com28", "com29", "com30", "com32", "com33", "com34", "com35", "com37", "com38", "com39", "com40", "com42", "com43"]],
+        [2, "GBE", 2, ["com23", "com26"]],
+        [3, "GBE", 2, ["com23", "com31"]],
+        [4, "GBE", 2, ["com23", "com36"]],
+        [5, "GBE", 2, ["com23", "com41"]]
+      ]
+    }
+  }
+}
