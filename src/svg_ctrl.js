@@ -86,9 +86,6 @@ class GrafanaJSCompleter {
     }
 }
 
-// var reader = new FileReader();
-// reader.readAsText(new File(new Blob(),"handleMetric.js"))
-
 export class SVGCtrl extends MetricsPanelCtrl {
 
     constructor($scope, $injector, $rootScope) {

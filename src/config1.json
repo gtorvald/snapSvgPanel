@@ -1,0 +1,38 @@
+{
+  "name": "Test SK",
+  "type": 2,
+  "countBlocks": 10,
+  "blocks": [
+    "service-01.lom2",
+    "service-02.lom2",
+    "service-03.lom2",
+    "service-04.lom2",
+    "service-05.lom2",
+    "service-06.lom2",
+    "service-07.lom2",
+    "service-08.lom2",
+    "service-09.lom2",
+    "service-10.lom2"
+  ],
+  "countBlades": 1,
+  "blades": [
+    [
+      10,
+      10,
+      [
+        ["access-02.lom2", 1],
+        ["access-01.lom2", 1],
+        ["mon02.lom2", 2],
+        ["manage-02.lom2", 1],
+        ["manage-01.lom2", 1],
+        [],
+        [],
+        ["mon01.lom2", 2]]
+    ]
+  ],
+  "linkTypes": [],
+  "links": {
+    "in": [],
+    "out": []
+  }
+}
