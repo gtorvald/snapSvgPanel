@@ -1,0 +1,1444 @@
+parts:
+  - width: 1
+    objects:
+      - type: commutator
+        id: comm_1
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_2
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_1
+        size: 1
+      - type: block
+        id: block_2
+        size: 1
+      - type: commutator
+        id: comm_3
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_4
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_3
+        size: 1
+      - type: block
+        id: block_4
+        size: 1
+      - type: commutator
+        id: comm_5
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_5
+        size: 1
+      - type: block
+        id: block_6
+        size: 1
+      - type: commutator
+        id: comm_6
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_7
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_7
+        size: 1
+      - type: block
+        id: block_8
+        size: 1
+
+      - type: block
+        id: block_9
+        size: 1
+      - type: block
+        id: block_10
+        size: 1
+      - type: commutator
+        id: comm_8
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_9
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_11
+        size: 1
+      - type: block
+        id: block_12
+        size: 1
+      - type: commutator
+        id: comm_10
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_13
+        size: 1
+      - type: block
+        id: block_14
+        size: 1
+      - type: commutator
+        id: comm_11
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_12
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_15
+        size: 1
+      - type: block
+        id: block_16
+        size: 1
+
+      - type: block
+        id: block_17
+        size: 1
+      - type: block
+        id: block_18
+        size: 1
+      - type: commutator
+        id: comm_13
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_14
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_19
+        size: 1
+      - type: block
+        id: block_20
+        size: 1
+      - type: commutator
+        id: comm_15
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_21
+        size: 1
+      - type: block
+        id: block_22
+        size: 1
+      - type: commutator
+        id: comm_16
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_17
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_23
+        size: 1
+      - type: block
+        id: block_24
+        size: 1
+
+      - type: block
+        id: block_25
+        size: 1
+      - type: block
+        id: block_26
+        size: 1
+      - type: commutator
+        id: comm_18
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_19
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_27
+        size: 1
+      - type: block
+        id: block_28
+        size: 1
+      - type: commutator
+        id: comm_20
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_29
+        size: 1
+      - type: block
+        id: block_30
+        size: 1
+      - type: commutator
+        id: comm_21
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_22
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_31
+        size: 1
+      - type: block
+        id: block_32
+        size: 1
+
+  - width: 1
+    objects:
+      - type: commutator
+        id: comm_23
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_24
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_33
+        size: 1
+      - type: block
+        id: block_34
+        size: 1
+      - type: commutator
+        id: comm_25
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_26
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_35
+        size: 1
+      - type: block
+        id: block_36
+        size: 1
+      - type: commutator
+        id: comm_27
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_37
+        size: 1
+      - type: block
+        id: block_38
+        size: 1
+      - type: commutator
+        id: comm_28
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_29
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_39
+        size: 1
+      - type: block
+        id: block_40
+        size: 1
+
+      - type: block
+        id: block_41
+        size: 1
+      - type: block
+        id: block_42
+        size: 1
+      - type: commutator
+        id: comm_30
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_31
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_43
+        size: 1
+      - type: block
+        id: block_44
+        size: 1
+      - type: commutator
+        id: comm_32
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_45
+        size: 1
+      - type: block
+        id: block_46
+        size: 1
+      - type: commutator
+        id: comm_33
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_34
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_47
+        size: 1
+      - type: block
+        id: block_48
+        size: 1
+
+      - type: block
+        id: block_49
+        size: 1
+      - type: block
+        id: block_50
+        size: 1
+      - type: commutator
+        id: comm_35
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_36
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_51
+        size: 1
+      - type: block
+        id: block_52
+        size: 1
+      - type: commutator
+        id: comm_37
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_53
+        size: 1
+      - type: block
+        id: block_54
+        size: 1
+      - type: commutator
+        id: comm_38
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_39
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_55
+        size: 1
+      - type: block
+        id: block_56
+        size: 1
+
+      - type: block
+        id: block_57
+        size: 1
+      - type: block
+        id: block_58
+        size: 1
+      - type: commutator
+        id: comm_40
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_41
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_59
+        size: 1
+      - type: block
+        id: block_60
+        size: 1
+      - type: commutator
+        id: comm_42
+        size: 1
+        commutator_type: type_2
+      - type: block
+        id: block_61
+        size: 1
+      - type: block
+        id: block_62
+        size: 1
+      - type: commutator
+        id: comm_43
+        size: 1
+        commutator_type: type_1
+      - type: commutator
+        id: comm_44
+        size: 1
+        commutator_type: type_1
+      - type: block
+        id: block_63
+        size: 1
+      - type: block
+        id: block_64
+        size: 1
+links:
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_3
+        side: right
+      - id: block_2
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_3
+        side: right
+      - id: block_1
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_4
+        side: right
+      - id: block_3
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_4
+        side: right
+      - id: block_4
+        side: right
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_6
+        side: right
+      - id: block_6
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_6
+        side: right
+      - id: block_5
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_7
+        side: right
+      - id: block_7
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_7
+        side: right
+      - id: block_8
+        side: right
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_1
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_2
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_3
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_4
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_5
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_6
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_7
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_5
+        side: right
+      - id: block_8
+        side: right
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_8
+        side: right
+      - id: block_10
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_8
+        side: right
+      - id: block_9
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_9
+        side: right
+      - id: block_11
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_9
+        side: right
+      - id: block_12
+        side: right
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_11
+        side: right
+      - id: block_14
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_11
+        side: right
+      - id: block_13
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_12
+        side: right
+      - id: block_15
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_12
+        side: right
+      - id: block_16
+        side: right
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_9
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_10
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_11
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_12
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_13
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_14
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_15
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_10
+        side: right
+      - id: block_16
+        side: right
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_13
+        side: right
+      - id: block_18
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_13
+        side: right
+      - id: block_17
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_14
+        side: right
+      - id: block_19
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_14
+        side: right
+      - id: block_20
+        side: right
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_16
+        side: right
+      - id: block_22
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_16
+        side: right
+      - id: block_21
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_17
+        side: right
+      - id: block_23
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_17
+        side: right
+      - id: block_24
+        side: right
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_17
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_18
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_19
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_20
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_21
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_22
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_23
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_15
+        side: right
+      - id: block_24
+        side: right
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_18
+        side: right
+      - id: block_26
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_18
+        side: right
+      - id: block_25
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_19
+        side: right
+      - id: block_27
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_19
+        side: right
+      - id: block_28
+        side: right
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_21
+        side: right
+      - id: block_30
+        side: right
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_21
+        side: right
+      - id: block_29
+        side: right
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_22
+        side: right
+      - id: block_31
+        side: right
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_22
+        side: right
+      - id: block_32
+        side: right
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_25
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_26
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_27
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_28
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_29
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_30
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_31
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_20
+        side: right
+      - id: block_32
+        side: right
+
+
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_1
+        side: left
+      - id: comm_3
+        side: left
+      - id: comm_4
+        side: left
+      - id: comm_6
+        side: left
+      - id: comm_7
+        side: left
+      - id: comm_8
+        side: left
+      - id: comm_9
+        side: left
+      - id: comm_11
+        side: left
+      - id: comm_12
+        side: left
+      - id: comm_13
+        side: left
+      - id: comm_14
+        side: left
+      - id: comm_16
+        side: left
+      - id: comm_17
+        side: left
+      - id: comm_18
+        side: left
+      - id: comm_19
+        side: left
+      - id: comm_21
+        side: left
+      - id: comm_22
+        side: left
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_2
+        side: left
+      - id: comm_5
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_2
+        side: left
+      - id: comm_10
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_2
+        side: left
+      - id: comm_15
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_2
+        side: left
+      - id: comm_20
+        side: left
+
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_25
+        side: left
+      - id: block_34
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_25
+        side: left
+      - id: block_33
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_26
+        side: left
+      - id: block_35
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_26
+        side: left
+      - id: block_36
+        side: left
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_28
+        side: left
+      - id: block_38
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_28
+        side: left
+      - id: block_37
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_29
+        side: left
+      - id: block_39
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_29
+        side: left
+      - id: block_40
+        side: left
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_33
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_34
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_35
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_36
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_37
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_38
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_39
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_27
+        side: left
+      - id: block_40
+        side: left
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_30
+        side: left
+      - id: block_42
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_30
+        side: left
+      - id: block_41
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_31
+        side: left
+      - id: block_43
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_31
+        side: left
+      - id: block_44
+        side: left
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_33
+        side: left
+      - id: block_46
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_33
+        side: left
+      - id: block_45
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_34
+        side: left
+      - id: block_47
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_34
+        side: left
+      - id: block_48
+        side: left
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_41
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_42
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_43
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_44
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_45
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_46
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_47
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_32
+        side: left
+      - id: block_48
+        side: left
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_35
+        side: left
+      - id: block_50
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_35
+        side: left
+      - id: block_49
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_36
+        side: left
+      - id: block_51
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_36
+        side: left
+      - id: block_52
+        side: left
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_38
+        side: left
+      - id: block_54
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_38
+        side: left
+      - id: block_53
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_39
+        side: left
+      - id: block_55
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_39
+        side: left
+      - id: block_56
+        side: left
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_49
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_50
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_51
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_52
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_53
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_54
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_55
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_37
+        side: left
+      - id: block_56
+        side: left
+
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_40
+        side: left
+      - id: block_58
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_40
+        side: left
+      - id: block_57
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_41
+        side: left
+      - id: block_59
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_41
+        side: left
+      - id: block_60
+        side: left
+
+  - type: type_1
+    id: link_1
+    objects:
+      - id: comm_43
+        side: left
+      - id: block_62
+        side: left
+  - type: type_1
+    id: link_2
+    objects:
+      - id: comm_43
+        side: left
+      - id: block_61
+        side: left
+  - type: type_1
+    id: link_3
+    objects:
+      - id: comm_44
+        side: left
+      - id: block_63
+        side: left
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_44
+        side: left
+      - id: block_64
+        side: left
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_57
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_58
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_59
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_60
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_61
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_62
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_63
+        side: left
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_42
+        side: left
+      - id: block_64
+        side: left
+
+
+  - type: type_1
+    id: link_4
+    objects:
+      - id: comm_23
+        side: right
+      - id: comm_25
+        side: right
+      - id: comm_26
+        side: right
+      - id: comm_28
+        side: right
+      - id: comm_29
+        side: right
+      - id: comm_30
+        side: right
+      - id: comm_31
+        side: right
+      - id: comm_33
+        side: right
+      - id: comm_34
+        side: right
+      - id: comm_35
+        side: right
+      - id: comm_36
+        side: right
+      - id: comm_37
+        side: right
+      - id: comm_39
+        side: right
+      - id: comm_40
+        side: right
+      - id: comm_41
+        side: right
+      - id: comm_42
+        side: right
+      - id: comm_44
+        side: right
+
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_24
+        side: right
+      - id: comm_27
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_24
+        side: right
+      - id: comm_32
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_24
+        side: right
+      - id: comm_37
+        side: right
+  - type: type_2
+    id: link_4
+    objects:
+      - id: comm_24
+        side: right
+      - id: comm_42
+        side: right

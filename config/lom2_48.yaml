@@ -1,0 +1,207 @@
+# массив, описывающий вертикальные части стойки
+parts:
+  # ширина вертикальной части
+  - width: 1
+  # массив, описывающий объекты внутри вертикальной части
+    objects:
+        # тип объекта
+      - type: block
+        # размер объекта
+        size: 1
+        # уникальный идентификатор объекта
+        id: n48727;n48728;n48731;n48732;
+      - type: block
+        size: 1
+        id: n48725;n48726;n48729;n48730;
+      - type: block
+        size: 1
+        id: n48719;n48720;n48723;n48724;
+      - type: block
+        size: 1
+        id: n48717;n48718;n48721;n48722;
+      - type: block
+        size: 1
+        id: n48711;n48712;n48715;n48716;
+      - type: block
+        size: 1
+        id: n48709;n48710;n48713;n48714;
+      - type: block
+        size: 1
+        id: n48703;n48704;n48707;n48708;
+      - type: block
+        size: 1
+        id: n48701;n48702;n48705;n48706;
+      - type: block
+        size: 1
+        id: n48627;n48628;n48631;n48632;
+      - type: block
+        size: 1
+        id: n48625;n48626;n48629;n48630;
+      - type: block
+        size: 1
+        id: n48619;n48620;n48623;n48624;
+      - type: block
+        size: 1
+        id: n48617;n48618;n48621;n48622;
+      - type: block
+        size: 1
+        id: n48611;n48612;n48615;n48616;
+      - type: block
+        size: 1
+        id: n48609;n48610;n48613;n48614;
+      - type: block
+        size: 1
+        id: n48603;n48604;n48607;n48608;
+      - type: block
+        size: 1
+        id: n48601;n48602;n48605;n48606;
+      - type: block
+        size: 1
+        id: n48527;n48528;n48531;n48532;
+      - type: block
+        size: 1
+        id: n48525;n48526;n48529;n48530;
+      - type: block
+        size: 1
+        id: n48519;n48520;n48523;n48524;
+      - type: block
+        size: 1
+        id: n48517;n48518;n48521;n48522;
+      - type: block
+        size: 1
+        id: n48511;n48512;n48515;n48516;
+      - type: block
+        size: 1
+        id: n48509;n48510;n48513;n48514;
+      - type: block
+        size: 1
+        id: n48503;n48504;n48507;n48508;
+      - type: block
+        size: 1
+        id: n48501;n48502;n48505;n48506;
+      - type: block
+        size: 1
+        id: n48427;n48428;n48431;n48432;
+      - type: block
+        size: 1
+        id: n48425;n48426;n48429;n48430;
+      - type: block
+        size: 1
+        id: n48419;n48420;n48423;n48424;
+      - type: block
+        size: 1
+        id: n48417;n48418;n48421;n48422;
+      - type: block
+        size: 1
+        id: n48411;n48412;n48415;n48416;
+      - type: block
+        size: 1
+        id: n48409;n48410;n48413;n48414;
+      - type: block
+        size: 1
+        id: n48403;n48404;n48407;n48408;
+      - type: block
+        size: 1
+        id: n48401;n48402;n48405;n48406;
+  - width: 1
+    objects:
+        # тип объекта
+      - type: block
+        # размер объекта
+        size: 1
+        # уникальный идентификатор объекта
+        id: n48001;n48002;n48005;n48006;
+      - type: block
+        size: 1
+        id: n48003;n48004;n48007;n48008;
+      - type: block
+        size: 1
+        id: n48009;n48010;n48013;n48014;
+      - type: block
+        size: 1
+        id: n48011;n48012;n48015;n48016;
+      - type: block
+        size: 1
+        id: n48017;n48018;n48021;n48022;
+      - type: block
+        size: 1
+        id: n48019;n48020;n48023;n48024;
+      - type: block
+        size: 1
+        id: n48025;n48026;n48029;n48030;
+      - type: block
+        size: 1
+        id: n48027;n48028;n48031;n48032;
+      - type: block
+        size: 1
+        id: n48101;n48102;n48105;n48106;
+      - type: block
+        size: 1
+        id: n48103;n48104;n48107;n48108;
+      - type: block
+        size: 1
+        id: n48109;n48110;n48113;n48114;
+      - type: block
+        size: 1
+        id: n48111;n48112;n48115;n48116;
+      - type: block
+        size: 1
+        id: n48117;n48118;n48121;n48122;
+      - type: block
+        size: 1
+        id: n48119;n48120;n48123;n48124;
+      - type: block
+        size: 1
+        id: n48125;n48126;n48129;n48130;
+      - type: block
+        size: 1
+        id: n48127;n48128;n48131;n48132;
+      - type: block
+        size: 1
+        id: n48201;n48202;n48205;n48206;
+      - type: block
+        size: 1
+        id: n48203;n48204;n48207;n48208;
+      - type: block
+        size: 1
+        id: n48209;n48210;n48213;n48214;
+      - type: block
+        size: 1
+        id: n48211;n48212;n48215;n48216;
+      - type: block
+        size: 1
+        id: n48217;n48218;n48221;n48222;
+      - type: block
+        size: 1
+        id: n48219;n48220;n48223;n48224;
+      - type: block
+        size: 1
+        id: n48225;n48226;n48229;n48230;
+      - type: block
+        size: 1
+        id: n48227;n48228;n48231;n48232;
+      - type: block
+        size: 1
+        id: n48301;n48302;n48305;n48306;
+      - type: block
+        size: 1
+        id: n48303;n48304;n48307;n48308;
+      - type: block
+        size: 1
+        id: n48309;n48310;n48313;n48314;
+      - type: block
+        size: 1
+        id: n48311;n48312;n48315;n48316;
+      - type: block
+        size: 1
+        id: n48317;n48318;n48321;n48322;
+      - type: block
+        size: 1
+        id: n48319;n48320;n48323;n48324;
+      - type: block
+        size: 1
+        id: n48325;n48326;n48329;n48330;
+      - type: block
+        size: 1
+        id: n48327;n48328;n48331;n48332;
+links: []
